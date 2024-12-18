@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebApi\\WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebHybridFlowClient\\WebHybridFlowClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AspNetCoreRequireMfaOidc\\AspNetCoreRequireMfaOidc.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IdentityStandaloneMfa\\IdentityStandaloneMfa.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IdentityStandaloneUserCheck\\IdentityStandaloneUserCheck.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebExtraClaimsCached\\WebExtraClaimsCached.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "StsServerIdentity\\StsServerIdentity.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
